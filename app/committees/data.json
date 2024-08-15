@@ -1,0 +1,334 @@
+{
+    "faculty": [
+        {
+            "name": "Marco Amabili",
+            "designation": "Professor",
+            "institute": "McGill University",
+            "emailid": "marco.amabili@mcgill.ca",
+            "mobile_number": "514-398-3068",
+            "area_of_research": "Vibrations and Hydrodynamics"
+        },
+        {
+            "name": "Prof. Daizhong Su",
+            "designation": "Professor",
+            "institute": "Nottingham Trent University",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. ANJU R. GUPTA",
+            "designation": "Assistant Professor",
+            "institute": "The University of Toledo",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Prof. A. Srikantha Phani",
+            "designation": "Professor",
+            "institute": "University of British Columbia",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. Sunil Agrawal",
+            "designation": "Professor",
+            "institute": "Columbia University, New York",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Sam Anand",
+            "designation": "Professor",
+            "institute": "University of Cincinnati",
+            "emailid": "anands@ucmail.uc.edu",
+            "phone": "513-556-5596",
+            "area_of_research": "Intelligent Design, Manufacturing Systems Optimization, Modelling and Optimization of Additive and Subtractive Manufacturing"
+        },
+        {
+            "name": "Dr. Navin Kumar",
+            "designation": "Professor",
+            "institute": "IIT Ropar",
+            "emailid": "nkumar@iitrpr.ac.in",
+            "mobile_number": "91-1881-24-2116",
+            "area_of_research": "Finite Element based Modelling, Smart Structures and Materials, Fault Diagnosis and Condition Monitoring, Active Vibration Control."
+        },
+        {
+            "name": "Prof.G. A. HARMAIN",
+            "designation": "Professor",
+            "institute": "NIT Srinagar",
+            "emailid": "gharmain@nitsri.net",
+            "mobile_number": "9419018804",
+            "area_of_research": "Computational Mechanics, FEM, Thermo elasticity and Second Sound Fracture Mechanics"
+        },
+        {
+            "name": "Prof. Himanshu Chaudhary",
+            "designation": "Professor",
+            "institute": "MNIT, Jaipur",
+            "emailid": "hchaudhary.mech@mnit.ac.in",
+            "mobile_number": "9549654498",
+            "area_of_research": "Multibody Dynamics, Dynamic Balancing and Optimization of mechanisms including Robotic Systems"
+        },
+        {
+            "name": "Dr. Bishakh Bhattacharya",
+            "designation": "Professor",
+            "institute": "IIT Kanpur",
+            "emailid": "bishakh[AT]iitk.ac.in",
+            "mobile_number": "Phone: +91-512-259-7824",
+            "area_of_research": "Active & Passive Vibration Control, Active Shape Control and Adaptive Structures, Intelligent Gripper Design, Smart Structures, Structural Health Monitoring"
+        },
+        {
+            "name": "Dr. B. Ravindra",
+            "designation": "Professor",
+            "institute": "IIT, Jodhpur",
+            "emailid": "ravib@iitj.ac.in",
+            "mobile_number": "Phone: 0291 280 1503",
+            "area_of_research": "Design, Dynamics, Vibration and Control"
+        },
+        {
+            "name": "Dr. Apurbba Kumar Sharma",
+            "designation": "Professor",
+            "institute": "IIT Roorkee",
+            "emailid": "aks[at]me.iitr.ac.in",
+            "mobile_number": "91-1332-285421",
+            "area_of_research": "Micromachining, Fabrication of Microchannels, Microholes, their characterisation., Advanced Manufacturing Processes, Hybrid Finishing Processes,Microwave Material Processing,"
+        },
+        {
+            "name": "Dr. Dheerendra Kr. Dwivedi",
+            "designation": "Professor",
+            "institute": "IIT Roorkee",
+            "emailid": "dwivedi[at]me.iitr.ac.in",
+            "mobile_number": "91-1332-285826",
+            "area_of_research": "Manufacturing: Welding & Surface Engineering, Mechanical Behaviour, Failure Analysis,"
+        },
+        {
+            "name": "Dr. Hari Singh",
+            "designation": "Professor",
+            "institute": "NIT Kurukshetra",
+            "emailid": "hsinghfme@nitkkr.ac.in",
+            "mobile_number": "9416121266",
+            "area_of_research": "Unconventional Machining Processes, Advanced Welding, 3D Printing, MMCs, Product and Process Improvement, Experimental Designs"
+        },
+        {
+            "name": "Dr. A. K. Darpe",
+            "designation": "Professor",
+            "institute": "IIT Delhi",
+            "emailid": "akdarpe[at]mech.iitd.ac.in",
+            "office_phone": "+91-11-2659 6095",
+            "area_of_research": "Machinery Health Monitoring, Rotor Dynamics, Vibration and Noise Engineering"
+        },
+        {
+            "name": "Dr. Anish Sachdeva",
+            "designation": "Professor",
+            "institute": "NIT Jalandhar",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. S P Singh",
+            "designation": "Professor",
+            "institute": "IIT Delhi",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Prof. Rajesh Kumar Verma",
+            "designation": "Professor",
+            "institute": "HBTU Kanpur",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. J S Saini",
+            "designation": "Professor",
+            "institute": "Thapar Institute of Engineering and Technology, Patiala",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. Vivek Jain",
+            "designation": "Professor",
+            "institute": "Thapar Institute of Engineering and Technology, Patiala",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. Ajai Jain",
+            "designation": "Professor",
+            "institute": "NIT Kurukshetra",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. Gian Bhushan",
+            "designation": "Professor",
+            "institute": "NIT Kurukshetra",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. Mohd. Talha",
+            "designation": "Professor",
+            "institute": "IIT Mandi",
+            "emailid": "",
+            "mobile_number": "",
+            "area_of_research": ""
+        },
+        {
+            "name": "Dr. Barun Pratiher",
+            "designation": "Associate Professor",
+            "institute": "IIT, Jodhpur",
+            "emailid": "barun@iitj.ac.in",
+            "mobile_number": "0291 280 1505",
+            "area_of_research": "Dynamics of Machines and Structures, Flexible Robots, MEMS, Rotor Dynamics"
+        },
+        {
+            "name": "Dr. Arpan Gupta",
+            "designation": "Associate Professor",
+            "institute": "IIT, Mandi",
+            "emailid": "agupta@iitmandi.ac.in",
+            "mobile_number": "",
+            "area_of_research": "Acoustics, Vibration, Bio-mechanics"
+        },
+        {
+            "name": "Dr. Siddhartha",
+            "designation": "Associate Professor",
+            "institute": "NIT Hamirpur",
+            "emailid": "sidmech@nith.ac.in",
+            "mobile_number": "91-1972-254744",
+            "area_of_research": "Design, Materials Tribology, Friction & Wear, SAH,"
+        },
+        {
+            "name": "Dr. Dinesh Kumar",
+            "designation": "Associate Professor",
+            "institute": "MNIT, Jaipur",
+            "emailid": "vermadinesh2002@gmail.com",
+            "mobile_number": "Tel : 01412713330",
+            "area_of_research": "Computational method for linear/non-linear problems, Fracture Mechanics"
+        },
+        
+        {
+            "name": "Mrityunjay Doddamani",
+            "designation": "Associate Professor",
+            "institute": "IIT Mandi",
+            "emailid": "mrityunjay@iitmandi.ac.in",
+            "mobile_number": "01905-267264",
+            "area_of_research": "Additive Manufacturing, Syntactic Foams"
+        },
+        {
+            "name": "Sanat Agrawal",
+            "designation": "Associate Professor",
+            "institute": "NIT, Uttrakhand",
+            "emailid": "sanata@nituk.ac.in",
+            "mobile_number": "9669709504",
+            "area_of_research": "Solid Mechanics and Design - CAD and Additive Manufacturing"
+        },
+        {
+            "name": "Dr. Dhiraj K. Mahajan",
+            "designation": "Associate Professor",
+            "institute": "IIT Ropar",
+            "emailid": "dhiraj.mahajan@iitrpr.ac.in",
+            "mobile_number": "7814252244",
+            "area_of_research": "Hydrogen Embrittlement of Metals, High-Pressure Hydrogen Storage, Bioabsorbable Polymeric Stents, Fracture & Fatigue Behavior of Metals"
+        },
+        {
+            "name": "Dr. V S Nagendra Reddy B",
+            "designation": "Assistant Professor",
+            "institute": "NIT, Kurukshetra",
+            "emailid": "nagendra@nitkkr.ac.in",
+            "mobile_number": "01744-233107",
+            "area_of_research": "Compliant Mechanisms, Solid Mechanics, Topology Optimization, Finite Element Analysis, Contact Mechanics and Hybrid Vehicles."
+        },
+        {
+            "name": "Dr. Anshul Sharma",
+            "designation": "Assistant Professor",
+            "institute": "NIT Hamirpur",
+            "emailid": "anshulsharma@nith.ac.in",
+            "mobile_number": "",
+            "area_of_research": "Mechanical Design"
+        },
+        {
+            "name": "Dr. Abhishek Mishra",
+            "designation": "Assistant Professor",
+            "institute": "NIT Delhi",
+            "emailid": "abhishekmishra@nitdelhi.ac.in",
+            "mobile_number": "9717590383",
+            "area_of_research": "Numerical Modelling and Simulation, Mechanics of Materials, Rupture of Ductile Materials"
+        },
+        {
+            "name": "Dr.Azher Jameel",
+            "designation": "Assistant Professor",
+            "institute": "NIT Srinagar",
+            "emailid": "jameelazher@nitsri.net",
+            "mobile_number": "8715028970",
+            "area_of_research": "Advanced Computational Mechanics, XFEM, EFGM, XIGA, Coupled Techniques, Nonlinear Structural Analysis,"
+        },
+        {
+            "name": "Dr. Sunny Zafar",
+            "designation": "Assistant Professor",
+            "institute": "IIT Mandi",
+            "emailid": "sunnyzafar@iitmandi.ac.in",
+            "mobile_number": "01905-267268",
+            "area_of_research": "Advanced Manufacturing Processes for Polymer Composites, Sustainable Biocomposites, Recycling of Polymer Composites"
+        },
+        {
+            "name": "Dr. Swati Sharma",
+            "designation": "Assistant Professor",
+            "institute": "IIT Mandi",
+            "emailid": "swati@iitmandi.ac.in",
+            "mobile_number": "01905-267830",
+            "area_of_research": "Carbon fiber for large-scale manufacturing (e.g., turbine blades, aircraft fuselage), microstructural investigations of non-graphitizing carbons,"
+        },
+        {
+            "name": "Dr. Chandrakant Kumar Nirala",
+            "designation": "Assistant Professor",
+            "institute": "IIT Ropar",
+            "emailid": "nirala@iitrpr.ac.in",
+            "mobile_number": "Phone: +91-1881-24-2107",
+            "area_of_research": "Conventional and Non-conventional manufacturing, EDM, µEDM and variants, Micro Manufacturing, Tool condition monitoring through virtual instrumentation"
+        },
+        {
+            "name": "Dr. Vikas Kukshal",
+            "designation": "Assistant Professor",
+            "institute": "NIT, Uttrakhand",
+            "emailid": "vikaskukshal@nituk.ac.in",
+            "mobile_number": "Office : 01346-257451",
+            "area_of_research": "Advanced Materials and alloys, Composite Materials, Biomechanics, Finite Element Analysis, Tribology, Computational Mechanics"
+        },
+        {
+            "name": "Dr. Amrita Puri",
+            "designation": "Assistant Professor",
+            "institute": "IIT, Jodhpur",
+            "emailid": "amritapuri@iitj.ac.in",
+            "phone": "0291 280 1518",
+            "area_of_research": "Active noise control; Active vibration control; Experimental modal analysis; Acoustics"
+        },
+        
+        {
+            "name": "Dr. Mohit Pant",
+            "designation": "Assistant Professor",
+            "institute": "NIT Hamirpur",
+            "emailid": "mohitfme@nith.ac.in",
+            "phone": "91172-254754",
+            "area_of_research": "Computational Fracture Mechanics"
+        },
+        {
+            "name": "Dr. Ushashi Roy",
+            "designation": "Assistant Professor",
+            "institute": "IIT Kanpur",
+            "emailid": "ushasiroy@iitk.ac.in",
+            "office_phone": "+91-512-259-2245",
+            "area_of_research": "Solid mechanics, Fracture mechanics, Plasticity, Finite element analysis"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+.custom-bg-colour {
+    background-color: #3b9cdc;
+    outline: solid 3px black;
+}
+
+.custom-bg-colour-2 {
+    background-color: #3b9cdc;
+    outline: solid 3px black;
+}
+
+.text-ways-to-reach {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.text-hotels {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.text-attractions {
+    color: black;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.text-air-route {
+    font-style: italic;
+}
+
+.text-train-route {
+    font-style: italic;
+}
+
+.text-road-route {
+    font-style: italic;
+}
+
+.flex {
+    padding-bottom: 2%;
+}
+
+.some-good-hotels {
+    color: black;
+    font-size: large;
+    font-weight: bold;
+}
+
+.img-list {
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 767px) {
+    .img-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .map {
+        min-width: 80%;
+        height: auto;
+    }
+}
+
+@media (max-width: 300px) {
+    .img-list {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .map {
+        min-width: 80%;
+        height: auto;
+    }
+
+    .leading-relaxed {
+        font-size: 63%;
+    }
+
+    .some-good-hotels {
+        color: black;
+        font-size: small;
+        font-weight: bold;
+    }
+}
